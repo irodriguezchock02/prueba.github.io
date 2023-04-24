@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>Operador en JS</title>
+
+</head>
+
+<body>
+
+     <script src="operador.js"></script>
+
+</body>
+
+</html>
